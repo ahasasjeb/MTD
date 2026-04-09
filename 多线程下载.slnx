@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="多线程下载.vcxproj" Id="f77230de-35d7-429a-980c-85382449696c" />
+</Solution>
