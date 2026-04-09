@@ -135,6 +135,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="DownloaderUI.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="MultiThreadDownloader.h" />
     <ClInclude Include="Resource.h" />
@@ -142,6 +143,7 @@
     <ClInclude Include="多线程下载.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DownloaderUI.cpp" />
     <ClCompile Include="MultiThreadDownloader.cpp" />
     <ClCompile Include="多线程下载.cpp" />
   </ItemGroup>
